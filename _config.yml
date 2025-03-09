@@ -1,0 +1,12 @@
+title: "Gyunghee Kang | Cornell ILR"
+description: "PhD Student in Industrial and Labor Relations"
+theme: jekyll-theme-minimal
+
+show_downloads: false
+google_analytics: 
+
+header_pages:
+  - CV.md
+  - Research.md
+  - Public Engagement.md
+  - Contact.md
